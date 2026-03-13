@@ -87,7 +87,7 @@ Fast. Scalable. Maintainable. That's the standard.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Web-Portfolio-View%20My%20Work-a78bfa?style=for-the-badge&labelColor=0d1117)](everyonehatesralph.github.io/prtfol/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-View%20My%20Work-a78bfa?style=for-the-badge&labelColor=0d1117)](everyonehatesralph.github.io/prtfol/)
 [![GitHub](https://img.shields.io/badge/GitHub-everyonehatesralph-white?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/everyonehatesralph)
 
 </div>
