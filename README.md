@@ -17,12 +17,12 @@
 
 ---
 
-## ⚡ Who Am I?
+## Who Am I?
 
 ```ts
 const ralph = {
   role:       "Full-Stack Developer",
-  languages:  ["TypeScript", "JavaScript", "HTML", "CSS"],
+  languages:  ["TypeScript", "JavaScript", "HTML", "CSS", "Python", "React"],
   strengths:  ["Web Apps", "UI/UX", "Clean Architecture", "Fast Delivery"],
   currently:  "Building production-grade web experiences",
   available:  true,  // 👈 hire me
@@ -34,7 +34,7 @@ Fast. Scalable. Maintainable. That's the standard.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -53,18 +53,18 @@ Fast. Scalable. Maintainable. That's the standard.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🗂️ [prtfol](https://github.com/everyonehatesralph/prtfol) — Official Web Portfolio
+### [prtfol](https://github.com/everyonehatesralph/prtfol) — Official Web Portfolio
 > Built with TypeScript. Clean, fast, and designed to convert visitors into clients.  
 > This is the work that speaks for itself.
 
-### 🎯 [suriv](https://github.com/everyonehatesralph/suriv) — ⭐ 1
+### [suriv](https://github.com/everyonehatesralph/suriv) — ⭐ 1
 > HTML-based project. Lean, functional, and shipped.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -79,7 +79,7 @@ Fast. Scalable. Maintainable. That's the standard.
 
 ---
 
-## 🤝 Work With Me
+## Work With Me
 
 > Got a project? A product? An idea that needs to come alive on the web?  
 > Let's build something worth shipping.
