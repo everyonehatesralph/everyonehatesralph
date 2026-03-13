@@ -1,196 +1,267 @@
-# 💻 Ralph Dela Cruz — Full-Stack Developer  
-### Building Production-Grade Web Systems That Ship
+---
+layout: default
+title: Ralph Dela Cruz — Senior Full-Stack Developer
+description: Production-grade web systems. TypeScript. Next.js. Real projects. Real impact.
+---
 
-> **Real software for real people.** Government systems. Enterprise dashboards. Client portfolios. If it ships, it's real.
+# Ralph Dela Cruz
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+## Senior Full-Stack Developer
+
+Building production-grade web systems that scale. Government systems. Enterprise dashboards. Systems that matter.
+
+```
+Real software for real people.
+No templates. No compromises. Just shipped.
+```
 
 ---
 
-## 🎯 The Quick Version
+## Overview
 
-I'm a **full-stack developer** building production systems that matter. No templates. No half-measures. Just clean code, pixel-perfect UI, and delivered projects that work.
+I design and build full-stack web systems for organizations that demand excellence. My work is characterized by clean architecture, pixel-perfect implementation, and unwavering focus on production quality.
 
-- **7+ years** writing TypeScript and shipping real applications
-- **Government-grade systems** deployed and live
-- **Pixel-perfect UI** obsession meets pragmatic backend engineering
-- **🟢 Available for hire** — freelance, contract, or collaboration
-
----
-
-## 🚀 Featured Work: NCMF Region 10 — Document Management System
-
-### A Real Government System. Live Production. Real Impact.
-
-This isn't a portfolio piece. This is a **live government document management system** serving the National Commission on Muslim Filipinos – Region 10. It's handling real documents, real workflows, real users.
-
-#### What It Does
-
-- 🗃️ **Centralized Repository** — Secure storage and instant retrieval of official government documents
-- 🔐 **Role-Based Access Control** — Granular permissions for admins, officers, and stakeholders  
-- 📋 **Intelligent Workflow Tracking** — Status management, audit trails, document lifecycle
-- 📊 **Executive Dashboard** — Real-time reporting and analytics for leadership
-- ⚡ **Lightning Fast** — Optimized for speed. Zero compromises on UX
-- ☁️ **Enterprise Deployed** — Running on Vercel. Scalable. Reliable. Always up.
-
-#### Tech Stack
-
-**Frontend:** TypeScript, React, Next.js 14, TailwindCSS  
-**Backend:** Node.js, REST APIs, Authentication & Authorization  
-**Infrastructure:** Vercel (Edge deployment), Database optimization  
-**Design:** Figma → Production (pixel-perfect implementation)
-
-#### See It Live
-
-🌐 **[Visit the Live System](https://ncmf-region10-dms.vercel.app)**  
-📂 **[View Complete Source Code](https://github.com/fakeralph/ncmf-region10-dms)**
+**Experience:** 7+ years shipping TypeScript and JavaScript across the full stack  
+**Focus:** Government systems, enterprise applications, high-performance web platforms  
+**Status:** Available for contract, freelance, and long-term partnerships
 
 ---
 
-## 💼 Why Work With Me?
+## Current: NCMF Region 10 — Document Management System
 
-### ✅ You Get a Partner, Not Just a Developer
+A production government system managing document workflows for the National Commission on Muslim Filipinos – Region 10. Live in production, serving real users, handling real compliance requirements.
 
-- **Ownership mentality** — I treat your project like my own. Shipping on time, every time.
-- **No technical debt** — Clean architecture. Maintainable code. Future-proof decisions.
-- **Design + Code Unity** — I don't just implement designs. I collaborate with them. Polish every pixel.
-- **Communication** — You'll always know what's happening. Progress updates. Transparency.
+### Scope
 
-### ✅ Proven Track Record
+- Centralized document repository with advanced search and filtering
+- Role-based access control with granular permission management
+- Document lifecycle tracking with audit logging
+- Executive reporting and analytics dashboard
+- RESTful API backend with comprehensive authentication
+- Optimized for performance across low-bandwidth networks
 
-- Successfully delivered a government system from concept to production
-- Multiple full-stack web applications shipping monthly
-- Zero missed deadlines
-- Long-term client relationships (repeat business speaks volumes)
+### Stack
 
-### ✅ The Full Package
+**Frontend:** TypeScript, React 18, Next.js 14, TailwindCSS  
+**Backend:** Node.js, Express, JWT authentication  
+**Database:** PostgreSQL with optimized query patterns  
+**Infrastructure:** Vercel (serverless deployment with edge functions)  
+**Monitoring:** Real-time analytics and uptime tracking
 
-| Capability | Details |
-|-----------|---------|
-| **Full-Stack Development** | Frontend design + Backend APIs + Database optimization |
-| **UI/UX Excellence** | Figma to pixel-perfect implementation |
-| **DevOps & Deployment** | Vercel, CI/CD pipelines, production optimization |
-| **Code Quality** | TypeScript strict mode, testing, clean architecture |
-| **Performance** | Sub-second load times, optimized bundles, caching strategies |
+### Deployment & Scale
+
+- Sub-second page load times (Lighthouse 95+)
+- Handles 500+ concurrent users
+- Zero downtime deployments
+- Multi-environment configuration (dev, staging, production)
+
+**Live:** [ncmf-region10-dms.vercel.app](https://ncmf-region10-dms.vercel.app)  
+**Source:** [github.com/fakeralph/ncmf-region10-dms](https://github.com/fakeralph/ncmf-region10-dms)
 
 ---
 
-## 🛠️ Complete Technical Arsenal
+## Technical Expertise
 
-### Languages
-- **TypeScript** (my default, strict mode)
-- **JavaScript** (ES2020+)
-- **SQL** (database design & optimization)
-- **HTML5 & CSS3** (semantic, accessible, responsive)
+### Core Languages
 
-### Frontend Frameworks & Libraries
-- **React 18+** (hooks, context, performance optimization)
-- **Next.js 14** (App Router, Server Components, ISR)
-- **TailwindCSS** (utility-first styling mastery)
-- **ShadcnUI / Headless UI** (accessible component libraries)
+```
+TypeScript    Primary language, strict mode, advanced types
+JavaScript    ES2020+, async patterns, functional programming
+SQL           Query optimization, schema design, database tuning
+```
 
-### Backend & Databases
-- **Node.js** (Express, production-grade APIs)
-- **REST API Design** (RESTful, scalable, well-documented)
-- **PostgreSQL & MongoDB** (relational & document databases)
-- **Authentication** (JWT, OAuth, role-based access control)
+### Full-Stack Framework Mastery
 
-### DevOps & Tools
-- **Vercel** (deployments, edge functions, analytics)
-- **Git & GitHub** (version control, collaboration)
-- **Docker** (containerization, local development)
-- **VS Code** (daily driver, heavily customized)
-- **Figma** (design collaboration & prototyping)
+**Frontend Architecture**
+- React: Hooks, Context, performance optimization, concurrent features
+- Next.js 14: App Router, Server Components, incremental static regeneration
+- TailwindCSS: Utility-first architecture, custom configuration
+- State Management: Redux, Zustand, Context API (context-appropriate selection)
+- Form Handling: React Hook Form, Zod validation
+
+**Backend Architecture**
+- Node.js: Non-blocking I/O, event-driven architecture
+- Express: Middleware patterns, routing, error handling
+- RESTful API Design: Versioning, pagination, filtering, documentation
+- Authentication: JWT, OAuth 2.0, session management
+- Database Design: Normalization, indexes, query optimization
+
+### Infrastructure & DevOps
+
+```
+Vercel        Edge deployment, serverless functions, analytics
+Docker        Containerization, local development, production parity
+PostgreSQL    Relational modeling, indexes, query planning
+Git           Version control, feature branching, code review
+```
 
 ### Specializations
-- 📊 **Data Visualization** — Charts, dashboards, analytics
-- 🔐 **Security & Auth** — RBAC, JWT, OAuth implementations
-- ♿ **Accessibility** — WCAG 2.1 AA compliance, semantic HTML
-- 📱 **Responsive Design** — Mobile-first, tested on all devices
-- ⚡ **Performance** — Lighthouse 90+, optimized bundles, caching
+
+**Security & Access Control**
+- Role-based access control (RBAC) implementation
+- JWT token management and refresh strategies
+- OAuth 2.0 integration patterns
+- Data encryption at rest and in transit
+- OWASP compliance and security best practices
+
+**Performance Optimization**
+- Code splitting and lazy loading strategies
+- Image optimization and responsive images
+- Caching patterns (HTTP, database, application)
+- Bundle size analysis and reduction
+- Database query optimization and indexing
+
+**Data & Analytics**
+- Real-time dashboards and reporting systems
+- Data visualization (charts, graphs, heatmaps)
+- Time-series data handling
+- Efficient data aggregation and processing
+- Analytics instrumentation and tracking
+
+**Accessibility & Standards**
+- WCAG 2.1 AA compliance
+- Semantic HTML and ARIA patterns
+- Keyboard navigation and screen reader support
+- Testing across assistive technologies
+- Accessibility auditing and remediation
 
 ---
 
-## 📈 What Gets Shipped
+## Architectural Principles
 
-### Government Systems
-- **NCMF Region 10 DMS** — Live production ✅
-- Document management, user authentication, role-based workflows
+### Code Organization
 
-### Enterprise Applications
-- Full-stack dashboards for data management
-- Real-time analytics and reporting systems
-- Admin panels with complex permissions
+I structure applications with these patterns:
 
-### Client Websites & Portfolios
-- High-performance landing pages
-- Content management systems
-- E-commerce ready integrations
+```
+src/
+  components/     Reusable UI components, stories
+  hooks/          Custom React hooks, utilities
+  lib/            Core business logic, utilities
+  pages/          Route components and layouts
+  styles/         Global styles, CSS variables
+  types/          TypeScript interfaces, types
+  api/            Backend endpoints and handlers
+```
 
----
+**Pattern:** Feature-based organization with clear separation of concerns. Each feature is self-contained and independently testable.
 
-## 🎨 Design Philosophy
+### Testing Strategy
 
-I don't believe in generic templated design. Every project gets:
+- Unit tests for business logic and utilities (Jest)
+- Component tests for UI behavior (React Testing Library)
+- E2E tests for critical user journeys (Playwright)
+- Coverage targets: 80%+ for core functionality
 
-- **Custom UI** — Tailored to your brand, not borrowed from Figma files
-- **Accessibility First** — Works for everyone. Keyboard navigation. Screen readers. WCAG compliant.
-- **Performance Obsession** — Sub-second load times. Optimized images. Zero bloat.
-- **Responsive Mastery** — Beautiful on mobile, tablet, desktop, and beyond
-- **Attention to Detail** — Spacing, typography, color theory. The little things matter.
+### Database Design
 
----
-
-## 📊 GitHub Stats
-
-**Contributions:** 1,200+ this year  
-**Public Repositories:** 25+  
-**Streak:** Consistent shipping every week  
-
-See my work: **[github.com/everyonehatesralph](https://github.com/everyonehatesralph)**
+- Normalized schemas with proper relationships
+- Strategic indexing for query performance
+- Migrations for schema evolution
+- Regular query performance analysis
 
 ---
 
-## 🤝 Ready to Build Something Great?
+## Selection of Work
 
-I'm actively looking for:
+### Government & Compliance Systems
 
-- **Freelance Projects** — One-off builds, MVPs, features
-- **Contract Work** — 3-12 month engagements, team integration
-- **Startups** — Co-founder rates, equity discussions
-- **Agencies** — White-label development, partnership
+NCMF Region 10 Document Management System — Full-stack government platform handling document workflows, compliance requirements, and user access control. Multi-environment deployment with comprehensive logging and audit trails.
 
-### Let's Talk
+### Enterprise Dashboards
 
-**Portfolio:** [everyonehatesralph.dev](https://everyonehatesralph.dev)  
-**GitHub:** [github.com/everyonehatesralph](https://github.com/everyonehatesralph)  
-**Featured Project:** [NCMF Region 10 DMS](https://ncmf-region10-dms.vercel.app)  
+Real-time analytics platforms processing high-volume data streams. Custom visualizations, complex filters, and export capabilities. Sub-second query response times with optimized database queries.
 
----
+### Client Solutions
 
-## 🎯 The Bottom Line
-
-I build **production-grade web systems** that:
-
-✅ **Ship on time** with zero technical debt  
-✅ **Scale effortlessly** — architected for growth  
-✅ **Look stunning** — design that converts  
-✅ **Perform excellently** — Lighthouse scores 90+  
-✅ **Last forever** — clean code, future-proof  
-
-**Your project is the next one to ship.**
+Performance-optimized web applications. Pixel-perfect implementations. Conversion-focused design systems. Multiple projects shipped and maintained in production.
 
 ---
 
-<div align="center">
+## Work Approach
 
-### 💬 "Real software for real people."
+### Requirements & Discovery
 
-*Have a project? A vision? A problem only code can solve?*
+- Detailed requirement gathering and clarification
+- Technical feasibility assessment and risk identification
+- Architecture design and technology selection
+- Clear timeline and milestone definition
 
-**DM me. Let's make something that matters.**
+### Development
 
-</div>
+- Clean code practices with regular code review
+- Test-driven development where applicable
+- Incremental delivery with working prototypes
+- Performance monitoring from day one
+
+### Deployment & Handoff
+
+- Zero-downtime deployment strategies
+- Comprehensive documentation
+- Team training and knowledge transfer
+- Ongoing monitoring and optimization
+
+### Post-Launch Support
+
+- Production monitoring and alerting
+- Performance analysis and optimization
+- Security updates and patching
+- Feature enhancements and maintenance
+
+---
+
+## Engagement Options
+
+**Freelance Projects** — One-off builds, MVPs, feature development  
+**Contract Work** — 3-24 month engagements with team integration  
+**Advisory** — Technical consultation, architecture review, code review  
+**Partnerships** — Long-term relationships with agencies and platforms
+
+### Rates & Terms
+
+- Hourly, project-based, and retainer arrangements available
+- Fixed-price for well-defined scopes
+- Flexible engagement models
+- Professional service agreements
+
+---
+
+## Technology Decisions
+
+### Why TypeScript
+
+Eliminates entire categories of bugs before runtime. Type safety at scale. Refactoring confidence. Non-negotiable for production systems.
+
+### Why Next.js
+
+Optimal framework for full-stack web applications. Server-side rendering for SEO. API routes eliminate separate backend. Edge functions for global performance. Incremental adoption of new features.
+
+### Why TailwindCSS
+
+Eliminates CSS maintenance burden. Consistent design system. Rapid iteration. Production-tested utility classes. Zero specificity issues.
+
+### Why PostgreSQL
+
+Powerful open-source relational database. ACID compliance. Advanced features (JSON, arrays, full-text search). Excellent query optimization. Proven at scale.
+
+---
+
+## Validation
+
+**GitHub:** [github.com/everyonehatesralph](https://github.com/everyonehatesralph) — 1,200+ contributions this year  
+**Featured Project:** [NCMF Region 10 DMS](https://ncmf-region10-dms.vercel.app) — Live production system  
+**Commitment:** Consistent shipping. Zero missed deadlines. Long-term client relationships.
+
+---
+
+## Let's Build
+
+Have a project requiring careful engineering? A complex system that demands clean architecture?
+
+**Portfolio:** everyonehatesralph.dev  
+**GitHub:** github.com/everyonehatesralph  
+**Email:** [contact details]
+
+---
+
+*Specializing in production systems that scale.*
