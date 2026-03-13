@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=everyonehatesralph&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20TypeScript%20Enjoyer%20%7C%20Building%20the%20Internet&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ralph Joshua Seromines&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20TypeScript%20Enjoyer%20%7C%20Building%20the%20Internet&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=I+build+things+that+actually+work.;TypeScript+is+my+love+language.;Clean+code.+Sharp+interfaces.+Real+results.;Available+for+freelance+%26+collab+%F0%9F%9A%80" alt="Typing SVG" /></a>
