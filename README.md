@@ -1,267 +1,181 @@
----
-layout: default
-title: Ralph Dela Cruz — Senior Full-Stack Developer
-description: Production-grade web systems. TypeScript. Next.js. Real projects. Real impact.
----
+<div align="center">
 
-# Ralph Dela Cruz
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:6d28d9,50:4f46e5,100:0ea5e9&height=220&section=header&text=everyonehatesralph&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=TypeScript%20Developer%20%E2%80%A2%20UI%2FUX%20Craftsman%20%E2%80%A2%20Real%20Projects%20for%20Real%20People&descAlignY=62&descSize=15&animation=scaleIn&stroke=ffffff&strokeWidth=1" />
 
-## Senior Full-Stack Developer
+<br/>
 
-Building production-grade web systems that scale. Government systems. Enterprise dashboards. Systems that matter.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=650&height=45&lines=🚀+Building+production+apps+that+ship.;💼+Government+%26+Enterprise+Web+Systems.;⚡+TypeScript+%7C+React+%7C+Next.js+%7C+Node.;🎯+Clean+code.+Pixel-perfect+UI.+On+time." alt="Typing SVG" />
+</a>
 
-```
-Real software for real people.
-No templates. No compromises. Just shipped.
-```
+<br/><br/>
 
----
+<a href="#"><img src="https://img.shields.io/badge/🟢 AVAILABLE FOR HIRE-YES-22c55e?style=for-the-badge&labelColor=0f172a&color=22c55e" /></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/📍 BASED IN-PHILIPPINES-818cf8?style=for-the-badge&labelColor=0f172a" /></a>
+&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/💼 FOCUS-FULLSTACK WEB-38bdf8?style=for-the-badge&labelColor=0f172a" /></a>
 
-## Overview
+<br/><br/>
 
-I design and build full-stack web systems for organizations that demand excellence. My work is characterized by clean architecture, pixel-perfect implementation, and unwavering focus on production quality.
+<img src="https://komarev.com/ghpvc/?username=everyonehatesralph&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS&labelColor=0f172a" />
 
-**Experience:** 7+ years shipping TypeScript and JavaScript across the full stack  
-**Focus:** Government systems, enterprise applications, high-performance web platforms  
-**Status:** Available for contract, freelance, and long-term partnerships
+</div>
 
----
-
-## Current: NCMF Region 10 — Document Management System
-
-A production government system managing document workflows for the National Commission on Muslim Filipinos – Region 10. Live in production, serving real users, handling real compliance requirements.
-
-### Scope
-
-- Centralized document repository with advanced search and filtering
-- Role-based access control with granular permission management
-- Document lifecycle tracking with audit logging
-- Executive reporting and analytics dashboard
-- RESTful API backend with comprehensive authentication
-- Optimized for performance across low-bandwidth networks
-
-### Stack
-
-**Frontend:** TypeScript, React 18, Next.js 14, TailwindCSS  
-**Backend:** Node.js, Express, JWT authentication  
-**Database:** PostgreSQL with optimized query patterns  
-**Infrastructure:** Vercel (serverless deployment with edge functions)  
-**Monitoring:** Real-time analytics and uptime tracking
-
-### Deployment & Scale
-
-- Sub-second page load times (Lighthouse 95+)
-- Handles 500+ concurrent users
-- Zero downtime deployments
-- Multi-environment configuration (dev, staging, production)
-
-**Live:** [ncmf-region10-dms.vercel.app](https://ncmf-region10-dms.vercel.app)  
-**Source:** [github.com/fakeralph/ncmf-region10-dms](https://github.com/fakeralph/ncmf-region10-dms)
+<br/>
 
 ---
 
-## Technical Expertise
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=everyonehatesralph&show_icons=true&hide_border=true&count_private=true&bg_color=0f172a&title_color=818cf8&icon_color=38bdf8&text_color=e2e8f0&ring_color=6d28d9" />
 
-### Core Languages
+## `> whoami`
 
-```
-TypeScript    Primary language, strict mode, advanced types
-JavaScript    ES2020+, async patterns, functional programming
-SQL           Query optimization, schema design, database tuning
+```typescript
+const ralph = {
+  title    : "Full-Stack Developer",
+  stack    : ["TypeScript","React","Next.js",
+              "Node.js","TailwindCSS"],
+  forte    : ["Web Apps","Gov Systems",
+              "UI/UX","REST APIs"],
+  shipped  : ["NCMF Region 10 DMS ✅"],
+  open_to  : "Freelance · Contract · Collab",
+  motto    : "If it ships, it's real."
+} as const;
 ```
 
-### Full-Stack Framework Mastery
+I build **real software for real people** — from government document systems to sleek client portfolios. My work is defined by precision, speed, and an obsession with quality.
 
-**Frontend Architecture**
-- React: Hooks, Context, performance optimization, concurrent features
-- Next.js 14: App Router, Server Components, incremental static regeneration
-- TailwindCSS: Utility-first architecture, custom configuration
-- State Management: Redux, Zustand, Context API (context-appropriate selection)
-- Form Handling: React Hook Form, Zod validation
-
-**Backend Architecture**
-- Node.js: Non-blocking I/O, event-driven architecture
-- Express: Middleware patterns, routing, error handling
-- RESTful API Design: Versioning, pagination, filtering, documentation
-- Authentication: JWT, OAuth 2.0, session management
-- Database Design: Normalization, indexes, query optimization
-
-### Infrastructure & DevOps
-
-```
-Vercel        Edge deployment, serverless functions, analytics
-Docker        Containerization, local development, production parity
-PostgreSQL    Relational modeling, indexes, query planning
-Git           Version control, feature branching, code review
-```
-
-### Specializations
-
-**Security & Access Control**
-- Role-based access control (RBAC) implementation
-- JWT token management and refresh strategies
-- OAuth 2.0 integration patterns
-- Data encryption at rest and in transit
-- OWASP compliance and security best practices
-
-**Performance Optimization**
-- Code splitting and lazy loading strategies
-- Image optimization and responsive images
-- Caching patterns (HTTP, database, application)
-- Bundle size analysis and reduction
-- Database query optimization and indexing
-
-**Data & Analytics**
-- Real-time dashboards and reporting systems
-- Data visualization (charts, graphs, heatmaps)
-- Time-series data handling
-- Efficient data aggregation and processing
-- Analytics instrumentation and tracking
-
-**Accessibility & Standards**
-- WCAG 2.1 AA compliance
-- Semantic HTML and ARIA patterns
-- Keyboard navigation and screen reader support
-- Testing across assistive technologies
-- Accessibility auditing and remediation
+<br/><br/><br/><br/>
 
 ---
 
-## Architectural Principles
+## 🏆 GitHub Trophies
 
-### Code Organization
-
-I structure applications with these patterns:
-
-```
-src/
-  components/     Reusable UI components, stories
-  hooks/          Custom React hooks, utilities
-  lib/            Core business logic, utilities
-  pages/          Route components and layouts
-  styles/         Global styles, CSS variables
-  types/          TypeScript interfaces, types
-  api/            Backend endpoints and handlers
-```
-
-**Pattern:** Feature-based organization with clear separation of concerns. Each feature is self-contained and independently testable.
-
-### Testing Strategy
-
-- Unit tests for business logic and utilities (Jest)
-- Component tests for UI behavior (React Testing Library)
-- E2E tests for critical user journeys (Playwright)
-- Coverage targets: 80%+ for core functionality
-
-### Database Design
-
-- Normalized schemas with proper relationships
-- Strategic indexing for query performance
-- Migrations for schema evolution
-- Regular query performance analysis
+<div align="center">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=everyonehatesralph&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
+</div>
 
 ---
 
-## Selection of Work
+## 🔥 Activity & Streak
 
-### Government & Compliance Systems
+<div align="center">
 
-NCMF Region 10 Document Management System — Full-stack government platform handling document workflows, compliance requirements, and user access control. Multi-environment deployment with comprehensive logging and audit trails.
+<img width="49%" src="https://streak-stats.demolab.com?user=everyonehatesralph&theme=transparent&hide_border=true&background=0f172a&stroke=6d28d9&ring=818cf8&fire=f97316&currStreakNum=ffffff&sideNums=e2e8f0&currStreakLabel=818cf8&sideLabels=94a3b8&dates=64748b&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everyonehatesralph&layout=compact&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=e2e8f0&langs_count=6" />
 
-### Enterprise Dashboards
-
-Real-time analytics platforms processing high-volume data streams. Custom visualizations, complex filters, and export capabilities. Sub-second query response times with optimized database queries.
-
-### Client Solutions
-
-Performance-optimized web applications. Pixel-perfect implementations. Conversion-focused design systems. Multiple projects shipped and maintained in production.
+</div>
 
 ---
 
-## Work Approach
+## 🚀 Featured Project
 
-### Requirements & Discovery
+<div align="center">
 
-- Detailed requirement gathering and clarification
-- Technical feasibility assessment and risk identification
-- Architecture design and technology selection
-- Clear timeline and milestone definition
+<a href="https://ncmf-region10-dms.vercel.app">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e1b4b&height=3&section=header" />
+</a>
 
-### Development
+</div>
 
-- Clean code practices with regular code review
-- Test-driven development where applicable
-- Incremental delivery with working prototypes
-- Performance monitoring from day one
+<table>
+<tr>
+<td width="60%">
 
-### Deployment & Handoff
+### 📂 NCMF Region 10 — Document Management System
+#### [`ncmf-region10-dms.vercel.app`](https://ncmf-region10-dms.vercel.app) &nbsp; • &nbsp; [`Source Code`](https://github.com/fakeralph/ncmf-region10-dms)
 
-- Zero-downtime deployment strategies
-- Comprehensive documentation
-- Team training and knowledge transfer
-- Ongoing monitoring and optimization
+> A full-scale **government document management system** built for the **National Commission on Muslim Filipinos – Region 10**. Digitizing and streamlining official document workflows for a real government agency.
 
-### Post-Launch Support
+**What it does:**
+- 🗃️ Centralized document storage & retrieval
+- 🔐 Role-based access control & authentication
+- 📋 Document tracking and status workflows
+- 📊 Admin dashboard with reporting
+- ☁️ Deployed live on Vercel
 
-- Production monitoring and alerting
-- Performance analysis and optimization
-- Security updates and patching
-- Feature enhancements and maintenance
+</td>
+<td width="40%" align="center">
 
----
+<br/>
 
-## Engagement Options
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Freelance Projects** — One-off builds, MVPs, feature development  
-**Contract Work** — 3-24 month engagements with team integration  
-**Advisory** — Technical consultation, architecture review, code review  
-**Partnerships** — Long-term relationships with agencies and platforms
+<br/>
 
-### Rates & Terms
+[![Live Demo](https://img.shields.io/badge/🌐%20LIVE%20DEMO-Visit%20Site-818cf8?style=for-the-badge&labelColor=0f172a)](https://ncmf-region10-dms.vercel.app)
 
-- Hourly, project-based, and retainer arrangements available
-- Fixed-price for well-defined scopes
-- Flexible engagement models
-- Professional service agreements
+[![View Code](https://img.shields.io/badge/📦%20SOURCE-View%20Code-38bdf8?style=for-the-badge&labelColor=0f172a)](https://github.com/fakeralph/ncmf-region10-dms)
 
----
+<br/>
 
-## Technology Decisions
+> *Government-grade. Production-deployed. Real impact.*
 
-### Why TypeScript
-
-Eliminates entire categories of bugs before runtime. Type safety at scale. Refactoring confidence. Non-negotiable for production systems.
-
-### Why Next.js
-
-Optimal framework for full-stack web applications. Server-side rendering for SEO. API routes eliminate separate backend. Edge functions for global performance. Incremental adoption of new features.
-
-### Why TailwindCSS
-
-Eliminates CSS maintenance burden. Consistent design system. Rapid iteration. Production-tested utility classes. Zero specificity issues.
-
-### Why PostgreSQL
-
-Powerful open-source relational database. ACID compliance. Advanced features (JSON, arrays, full-text search). Excellent query optimization. Proven at scale.
+</td>
+</tr>
+</table>
 
 ---
 
-## Validation
+## 🛠️ Full Tech Arsenal
 
-**GitHub:** [github.com/everyonehatesralph](https://github.com/everyonehatesralph) — 1,200+ contributions this year  
-**Featured Project:** [NCMF Region 10 DMS](https://ncmf-region10-dms.vercel.app) — Live production system  
-**Commitment:** Consistent shipping. Zero missed deadlines. Long-term client relationships.
+<div align="center">
+
+**Languages & Core**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
-## Let's Build
+## 📈 Contribution Graph
 
-Have a project requiring careful engineering? A complex system that demands clean architecture?
-
-**Portfolio:** everyonehatesralph.dev  
-**GitHub:** github.com/everyonehatesralph  
-**Email:** [contact details]
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=everyonehatesralph&bg_color=0f172a&color=818cf8&line=6d28d9&point=38bdf8&area=true&area_color=6d28d9&hide_border=true&radius=8" />
+</div>
 
 ---
 
-*Specializing in production systems that scale.*
+## 🤝 Let's Build Something
+
+<div align="center">
+
+> *Have a project? A vision? A problem that needs solving on the web?*  
+> *I've shipped real systems for real institutions. Your project is next.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-prtfol-818cf8?style=for-the-badge&labelColor=0f172a)](https://github.com/everyonehatesralph/prtfol)
+&nbsp;
+[![NCMF DMS](https://img.shields.io/badge/📂%20Featured%20Work-NCMF%20DMS-38bdf8?style=for-the-badge&labelColor=0f172a)](https://ncmf-region10-dms.vercel.app)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/🐙%20GitHub-everyonehatesralph-e2e8f0?style=for-the-badge&labelColor=0f172a)](https://github.com/everyonehatesralph)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4f46e5,100:0ea5e9&height=130&section=footer&text=Open%20to%20opportunities.%20DM%20me.&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+</div>
